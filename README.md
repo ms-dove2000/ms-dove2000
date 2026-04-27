@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ms-dove2000/ms-dove2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **ms-dove2000**, a open-source maintainer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on personal side projects
+- 🐛 Bug hunter by night
+- 🌱 Always learning new things
+
+## Tech
+
+`Elasticsearch` `Clojure` `Gin` `Sinatra` `Kubernetes` `Rails`
+
+---
+
+_Bug hunter._
